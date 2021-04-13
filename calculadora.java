@@ -1,8 +1,9 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;
 public class Ahorcado {
  public static void main(String[] args) {
  Integer a;
  Integer b;
+ Integer c; 
  Integer opcion;
  Integer resultado;
  do{
